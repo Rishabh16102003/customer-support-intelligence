@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 URL='https://customer-support-backend-iwhm.onrender.com'
 
-BACKEND_URL = os.getenv(URL, "http://localhost:8000")
+BACKEND_URL = 'https://customer-support-backend-iwhm.onrender.com'
 
 # --------------------------------------------------
 # Page Config
