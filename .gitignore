@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+# notebooks/
+
+# macOS
+.DS_Store
+
+# ML experiment artifacts
+mlruns/
+mlflow.db
+# powerbi/
+demo.txt
+
+# raw training data if not required by deployed app
+# data/
+start_mflow.sh
