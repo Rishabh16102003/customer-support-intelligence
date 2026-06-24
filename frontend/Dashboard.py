@@ -4,7 +4,6 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-URL='https://customer-support-backend-iwhm.onrender.com'
 
 BACKEND_URL = 'https://customer-support-backend-iwhm.onrender.com'
 
