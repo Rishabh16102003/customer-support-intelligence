@@ -6,6 +6,8 @@ __pycache__/
 .venv/
 venv/
 .env
+.vscode
+*.sh
 
 # Jupyter
 .ipynb_checkpoints/
