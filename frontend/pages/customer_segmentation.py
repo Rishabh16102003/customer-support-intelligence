@@ -10,8 +10,8 @@ st.set_page_config(page_title="Customer Segmentation Dashboard", layout="wide")
 st.title("Customer Segmentation Dashboard")
 st.markdown("Cluster-based customer analysis using K-Means")
 
-# Assume df is already loaded
-df = pd.read_csv("segmentation_data/segmentation.csv")
+# df loaded
+df = pd.read_csv("frontend/segmentation_data/segmentation.csv")
 
 # =========================================
 # BASIC CLEANING
