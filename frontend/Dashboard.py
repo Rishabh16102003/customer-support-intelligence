@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-BACKEND_URL = 'https://customer-support-backend-iwhm.onrender.com'
+BACKEND_URL = st.secrets["BACKEND_URL"]
 
 # --------------------------------------------------
 # Page Config
