@@ -4,6 +4,8 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
+BACKEND_URL='https://customer-support-backend-iwhm.onrender.com'
+
 BACKEND_URL = os.getenv("BACKEND_URL", "http://localhost:8000")
 
 # --------------------------------------------------
